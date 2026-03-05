@@ -1,5 +1,5 @@
 ---
-title: "macroecology"
+title: "&nbsp;"
 output: html_document
 ---
 
@@ -74,4 +74,4 @@ I work on the macroecological patterns in seed dispersal, seed predation, seed s
 #### Research Interests
 **Macroecology, Biogeography** 
 
-* <p style="color:darkblue">**Prospective students and postdocs are encouraged to read [our publications](publications.html) and [contact me](mailto:chensichong0528@gmail.com) or the [lab members](people.html) before applying officially.** </p>
+* <p style="color:darkgreen">**Prospective students and postdocs are encouraged to read [our publications] and [contact me](mailto:chensichong0528@gmail.com) or the [lab members] before applying officially.** </p>
