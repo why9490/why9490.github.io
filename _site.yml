@@ -1,9 +1,9 @@
 name: "Si-Chong Chen"
 title: "Si-Chong Chen"
-description: "Homepage for Si-Chong Chen's Macroecology Group."
+description: "Homepage for Si-Chong Chen's Lab."
 output_dir: "."
 navbar:
-  title: <p style="color:darkgreen;font-weight:bold;font-size:30px">Macroecology Group</p>
+  title: <p style="color:darkgreen;font-weight:bold;font-size:30px">Chen Lab</p>
   right:
     - text: "Home"
       href: index.html
@@ -14,7 +14,9 @@ navbar:
     - text: "Join us"
       href: opportunities.html
     - text: "Data"
-      href: data.html  
+      href: data.html
+    - text: "中文"
+      href: cn.html
       
 output:
   html_document:
@@ -23,8 +25,3 @@ output:
     include:
 #      in_header: header.html
       after_body: footer.html
-
-
-
-
-
