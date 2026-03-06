@@ -10,7 +10,11 @@ navbar:
     - text: "Team"
       href: team.html
     - text: "Publications"
-      href: publications.html  
+      href: publications.html
+    - text: "Join us"
+      href: opportunities.html
+    - text: "Data"
+      href: data.html  
       
 output:
   html_document:
@@ -19,6 +23,7 @@ output:
     include:
 #      in_header: header.html
       after_body: footer.html
+
 
 
 
